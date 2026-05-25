@@ -1,0 +1,11 @@
+{
+  "name": "Rising Stars",
+  "description": "A premium global entertainment marketplace connecting top talents, agencies, and venues with a fluid, Apple-like cinematic design, dynamic application forms, and an admin portal.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
